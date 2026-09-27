@@ -2,7 +2,7 @@
 
 **AI Engineer & Technical Lead** — I build production AI systems and research adversarial information environments.
 
-Currently the sole architect and technical lead at **Lumeus** (Munich): designed and own a multilingual LLM coaching platform end-to-end — LLM orchestration, real-time voice inference pipeline, vector memory, encrypted backend, 4 repositories across 3 environments. Directing 2 engineers.
+Currently technical lead at **Lumeus** (Munich): designed and own a multilingual LLM coaching platform end-to-end — LLM orchestration, real-time voice inference pipeline, vector memory, encrypted backend, 4 repositories across 3 environments. Directing 2 engineers.
 
 Completing an **MSc in Data Science at TU Vienna**, with thesis research on social media bot networks and information warfare.
 
